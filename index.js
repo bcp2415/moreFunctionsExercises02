@@ -1,4 +1,4 @@
-//Create an anonymous fucntion and set it equal to a variable.
+//Create an anonymous function and set it equal to a variable.
 const returnVariousThings = function (input) {
   if (typeof input === 'number') {
     return (input * 3);
